@@ -1,8 +1,7 @@
 
 # Project & Task Management Application
 
-> This is a Task Managemnet System in three langauages of Persian, Pashto and English for the Ministry of Communications and Information Technology, Kabul Afghanistan. The project aims to distribute tasks from the top managemnet to various departments. Each department will have their own workspace to manage and
-distribute tasks to employess. Also, task status and completion will be reported to the head of department of using the system. Additionaly, It has an archive feature in which the files and important documents of an organization could be saved. Overall, the system is built with the following features:
+> This is a Task Managemnet System (TMS) in three langauages of Persian, Pashto and English for the Ministry of Communications and Information Technology, Kabul Afghanistan. The project aims to distribute tasks from the top managemnet to various departments. Each department will have their own workspace to manage and distribute tasks to employess. Also, task status and completion will be reported to the head of department of using the system. Additionaly, It has an archive feature in which the files and important documents of an organization could be saved. Overall, the system is built with the following features:
 
 1. Project Management
 2. Task Management
@@ -16,6 +15,10 @@ distribute tasks to employess. Also, task status and completion will be reported
 10. Leave Management
 11. Activity Log Management
 12. Files and Documents Archiving Management 
+
+## Project User Manual Guidline Document
+
+This project is [TMS Manual Guideline](./Task_Management_System.pdf) licensed.
 
 ## Built With
 
